@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "description": "Opens the Jellyfin web client served by your own server, so server-side plugins (Home Screen Sections, Media Bar, themes) work on Samsung Tizen TVs.",
   "packageType": "mods",
-  "websiteURL": "http://192.168.4.59:8096/web/",
+  "websiteURL": "http://192.168.10.100:8096/web/",
   "main": "userScript.js",
   "keys": [
     "MediaPlayPause",
